@@ -48,16 +48,6 @@ Proje Google Lighthouse ile test edilmistir.
 ![Lighthouse Accessibility Sonucu](./lighthouse.png)
 
 ---
-
-## Git Commit Yapisi
-
-- feat: add semantic HTML portfolio structure
-- feat: add accessible contact form with labels and aria
-- fix: improve accessibility based on Lighthouse report
-- docs: add Lighthouse accessibility report screenshot
-
----
-
 ## Sonuc
 
 Accessibility 90+ hedefi basariyla saglanmistir ve LAB gereksinimleri karsilanmistir.
