@@ -123,7 +123,7 @@ function App() {
               </div>
 
               <div>
-                <label htmlFor="message">Mesajiniz:</label>
+                <label htmlFor="message">Mesajınız:</label>
                 <textarea
                   id="message"
                   name="message"
