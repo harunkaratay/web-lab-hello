@@ -15,10 +15,11 @@ Kullanilan Teknolojiler
 
 Kurulum
 ```bash
-npm install
+npm install![Reasoning_Test_Confirmation](https://github.com/user-attachments/assets/4dd1caaf-e223-4740-923e-c15585af9c8d)
+
 ## Calistirma
 ```bash
 npm run dev
 ## Ekran Goruntusu
-<img width="1507" height="897" alt="image" src="https://github.com/user-attachments/assets/62f34a71-8f2c-4d4e-b097-f494f985b364" />
+![Reasoning_Test_Confirmation](https://github.com/user-attachments/assets/7d5eb072-54ad-4790-abdb-a3b9bec3daad)
 
